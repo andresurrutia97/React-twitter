@@ -1,7 +1,7 @@
 {
   "name": "urutwitter",
   "version": "1.0.0",
-  "description": "Un ejercicio de react y el puto webpack nada que me sirve fuckkkkk",
+  "description": "Un ejercicio de react",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
